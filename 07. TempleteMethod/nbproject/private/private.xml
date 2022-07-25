@@ -4,8 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Libro"/>
         <group>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/TempleteMethod/src/oscarblancarte/ipd/templetemethod/TempleteMethodMain.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/TempleteMethod/src/oscarblancarte/ipd/templetemethod/impl/DrugstoreFileProcess.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/07.%20TempleteMethod/src/oscarblancarte/ipd/templetemethod/impl/AbstractFileProcessTemplete.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/07.%20TempleteMethod/src/oscarblancarte/ipd/templetemethod/impl/BankFileProcess.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/07.%20TempleteMethod/src/oscarblancarte/ipd/templetemethod/util/OnMemoryDataBase.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/07.%20TempleteMethod/src/oscarblancarte/ipd/templetemethod/TempleteMethodMain.java</file>
         </group>
     </open-files>
 </project-private>

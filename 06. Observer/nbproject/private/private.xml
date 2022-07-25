@@ -3,14 +3,6 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Libro"/>
-        <group>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/ConfigurationManager.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/observers/MoneyFormatObserver.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/observers/CurrencyFormatObserver.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/AbstractObservable.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/IObserver.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/ObserverMain.java</file>
-            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Observer/src/oscarblancarte/ipd/observer/impl/IObservable.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

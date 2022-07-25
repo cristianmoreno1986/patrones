@@ -47,11 +47,11 @@ public class BankFileProcess extends AbstractFileProcessTemplete {
             DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
             Document document = documentBuilder.parse(file);
             document.getDocumentElement().normalize();
-            System.out.println("Root Element :" + document.getDocumentElement().getNodeName());
+            //System.out.println("Root Element :" + document.getDocumentElement().getNodeName());
             NodeList nodeList = document.getElementsByTagName("payment");
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node node = nodeList.item(i);
-                System.out.println("\nCurrent Element :" + node.getNodeName());
+                //System.out.println("\nCurrent Element :" + node.getNodeName());
                 if (node.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) node;
                     String id = element.getAttribute("id");
