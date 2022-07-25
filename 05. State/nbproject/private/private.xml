@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Libro"/>
+        <group>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/MessageProcess.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/states/StopServerState.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/StateMain.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/Server.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/states/StartServerState.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/states/SaturatedServerState.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/states/StartingServerState.java</file>
+            <file>file:/F:/maestria/patrones/Tareas/Individual/05.%20State/src/oscarblancarte/ipd/state/gui/ServerPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
